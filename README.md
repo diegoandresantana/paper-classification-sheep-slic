@@ -1,2 +1,1 @@
-# paper-classification-sheep-slic
-a
+This project is an experiment that compares CNN, BOW+SVM, and syntactic + LSTM. 
